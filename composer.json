@@ -1,0 +1,12 @@
+{
+  "name": "halloworld42/testbenutzer",
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/HalloWelt42/VersionierungTestAnbieter.git"
+    }
+  ],
+  "require": {
+    "halloworld42/testanbieter": "0.1"
+  }
+}
